@@ -6,7 +6,7 @@ var jokes = [
   ]
 
   function newJoke() {
-    var randomNumber = Math.floor(Math.random() * jokes.length));
+    var randomNumber = Math.floor(Math.random() * 4) + 1;
   
   document.getElementById('jokeDisplay').innerHTML = jokes[randomNumber];
   }
