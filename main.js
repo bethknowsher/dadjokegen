@@ -9,3 +9,4 @@ var jokes = [
     var randomNumber = Math.floor(Math.random() * jokes.length));
   
   document.getElementById('jokeDisplay').innerHTML = jokes[randomNumber];
+  }
