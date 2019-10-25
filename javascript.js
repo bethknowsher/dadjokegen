@@ -1,4 +1,4 @@
-var jokes = [
+    var jokes = [
   "Why was Santa's little helper feeling depressed? Because he has low elf esteem.",
   "How are false teeth like stars? They come out at night!"
   "What type of bees make milk? Boo-bees."
@@ -10,3 +10,4 @@ var jokes = [
   
   document.getElementById('jokeDisplay').innerHTML = jokes[randomNumber];
   }
+
