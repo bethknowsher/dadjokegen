@@ -9,9 +9,15 @@ body {
   font-size: 30px;
 }
 
+#jokeDisplay {
+    color: #ffffff;
+  text-align: center;
+  font-size: 18px;
+}
 
 #button {
-  color: #ffffff; 
+  color: #ffffff;
+  font-size: 15px;
 }
 
 
