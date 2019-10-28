@@ -1,9 +1,9 @@
-body {
+#body {
   background: #00005b;
   
 }
 
-header {
+#header {
   color: #ffffff;
   text-align: center;
   font-family: "Verdana", "Geneva", sans-serif;
@@ -11,7 +11,7 @@ header {
 }
 
 
-button {
+#button {
   background-color: #ffffff; 
 }
 
