@@ -17,7 +17,7 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-#button {
+.button {
   color: #ffffff;
   font-size: 15px;
   padding: 14px 28px;
