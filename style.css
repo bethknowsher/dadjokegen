@@ -11,7 +11,7 @@ body {
 }
 
 #jokeDisplay {
-    color: #ffffff;
+  color: #ffffff;
   text-align: center;
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
@@ -20,6 +20,9 @@ body {
 #button {
   color: #ffffff;
   font-size: 15px;
+  padding: 14px 28px;
+  display: inline-block;
+}
 }
 
 
