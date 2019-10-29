@@ -20,9 +20,9 @@ body {
 .button {
   color: #00000;
   font-size: 15px;
-  padding: 15px 30px;
-  display: inline-block;
-  margin: 25px 600px;
+  display: block;
+  max-width: 300px;
+  margin: auto;
   }
 
 
